@@ -35,3 +35,8 @@ int multiplication(int a, int b)
 	
 	return resultat;
 }
+
+void hello()
+{
+	cout >> "hello world";
+}
