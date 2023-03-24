@@ -6,6 +6,13 @@ int division(int a, int b);
 
 int multiplication(int a, int b);
 
+
 int exposant(int nb, int exp);
 
 void hello();
+
+int factoriel(int nb);
+
+int exposant(int nb, int exp);
+
+
